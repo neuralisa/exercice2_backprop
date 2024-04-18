@@ -7,7 +7,6 @@
    - Experiment with different hidden layer sizes and number of layers
    - Evaluate the trained model using entity-level precision, recall, and F1 scores
    - Compare the performance of the MLP model with the simple linear model from exercise 
-   - 1
 3. Explore the effects of different activation functions and regularization techniques for NER
    - Modify the MLP model from exercise 2 to allow configurable activation functions (e.g. ReLU, tanh, sigmoid)
    - Train models with different activation functions.)
